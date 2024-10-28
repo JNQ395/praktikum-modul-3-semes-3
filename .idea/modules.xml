@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tgs1/tgs1.iml" filepath="$PROJECT_DIR$/tgs1/tgs1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tgs2/tgs2.iml" filepath="$PROJECT_DIR$/tgs2/tgs2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tgs3/tgs3.iml" filepath="$PROJECT_DIR$/tgs3/tgs3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tgs4/tgs4.iml" filepath="$PROJECT_DIR$/tgs4/tgs4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tugas modul 3.iml" filepath="$PROJECT_DIR$/tugas modul 3.iml" />
+    </modules>
+  </component>
+</project>
